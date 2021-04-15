@@ -1,4 +1,4 @@
-# simplifiedmiscanthusLCA
+# SimplifiedMiscanthusLCA
 
 This is the code used in the analysis presented in:
 
